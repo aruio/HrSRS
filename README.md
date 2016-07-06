@@ -20,10 +20,10 @@
 ![alt text](https://github.com/aruio/HrSRS/blob/master/iamges/1-11.jpg)
 ![alt text](https://github.com/aruio/HrSRS/blob/master/iamges/1-12.jpg)
 ###SRS系统类图
-![alt text](https://github.com/aruio/HrSRS/blob/master/iamges/3-1.jpg)
+![alt text](https://github.com/aruio/HrSRS/blob/master/iamges/3-1.png)
 ###教师删除课程顺序图
-![alt text](https://github.com/aruio/HrSRS/blob/master/iamges/3-2.jpg)
+![alt text](https://github.com/aruio/HrSRS/blob/master/iamges/3-2.png)
 ###学生选课顺序图
-![alt text](https://github.com/aruio/HrSRS/blob/master/iamges/3-3.jpg)
+![alt text](https://github.com/aruio/HrSRS/blob/master/iamges/3-3.png)
 ###系统分层结构图
 ![alt text](https://github.com/aruio/HrSRS/blob/master/iamges/2-2.jpg)
